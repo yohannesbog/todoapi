@@ -1,0 +1,7 @@
+#hero{
+    position: relative;
+    padding: 20rem 205rem;
+    margin: 5rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
