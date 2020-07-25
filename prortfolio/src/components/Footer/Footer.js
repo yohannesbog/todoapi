@@ -28,7 +28,7 @@ class Footer extends Component {
 <a href='https://www.linkedin.com/in/yohannes-bogale-950752176/' target="_blank">
 
 <FaEnvelope id='contacticon' color="black" size={40} />
-yohannesbog@gmail.com
+bogaleyohannes@gmail.com
 
 </a>
           </div>

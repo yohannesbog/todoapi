@@ -19,14 +19,14 @@
   .navbar-nav  li a:hover {
     color: #451abc !important;
   }
-  .form-inline{
+  /* .form-inline{
       display: inline-flex;
       text-align: right;
       align-items: flex-end;
       align-content: flex-end;
       padding-left: 400px;
 
-  }
+  } */
 
   #nav{
 display: inline;
