@@ -1,0 +1,14 @@
+/* #container {
+    background-color: black;
+}
+.card-img-top {
+    width: 60px;
+    height: 60px;
+} */
+.card-text{
+    color: white;
+}
+
+.card-title{
+    color: khaki;
+}
