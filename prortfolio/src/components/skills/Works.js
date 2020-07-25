@@ -30,11 +30,11 @@ function Works() {
       <h5 class="card-title">Trip App </h5>
       <p class="card-text">App used to manage places a user visits and easily access favorite places and associated weather using google map and weather api.
 .</p>
-<a href="https://github.com/seidoo99/E-commerce-App" target="_blank">
+<a href="https://github.com/tandangle/tripApp" target="_blank">
             Github repo
           </a>
           <br />
-          <a href="https://ecommerce-app-rosy.vercel.app/" target="_blank">
+          <a href="https://tripapp-project.herokuapp.com" target="_blank">
             Live Demo
           </a>
     </div>
